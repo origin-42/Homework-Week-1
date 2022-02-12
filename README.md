@@ -33,7 +33,8 @@ Any text editor can be utilized to operate the webpage. Simply download the cont
 [Origin 42](https://github.com/origin-42)
 Dave Plummer
 
-[30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) for assistance with underline after effect for list elements. 
+[30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) Underline effect. 
+[Free Code Camp](https://www.freecodecamp.org/learn). Applied Visual Design & Applied Accessibility.
 
 ## License
 [GNU General Public License v3.0](./LICENSE)
