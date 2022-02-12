@@ -36,12 +36,13 @@ Dave Plummer
 [30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) for assistance with underline after effect for list elements. 
 
 ## License
-add lisence
+[General purpose lisence](./LICENSE)
 
-Updated for accessibility and readability as of 12/02/2022.
-
+## Extras
 
 [Hero Section](./assets/images/Hero%20Screenshot.png) and
 [Content Section](./assets/images/Content%20Screenshot.png).
 
 [Horiseon Website](https://origin-42.github.io/Horiseon-Digital-Marketing/)
+
+Updated for accessibility and readability as of 12/02/2022.
