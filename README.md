@@ -5,7 +5,7 @@ The Horiseon website has not been adjusted for accessibility, responsiveness and
 Moving forward, an assisted setup for the website will providers specific users with the ability to navigate the website more easily with feedback to keystrokes and interaction.
 As it was, the website did not cater to these needs of certain users. 
 With the use of semantic HTML and accessibility syntax, the site will be much more navigateable, including being able to use a keyboard only and understanding the flow of the doucment without the use of sight.
-In addition to this. The CSS needed cleaning and modulation for accessing the code or understanding the content. 
+In addition to this, the CSS needed cleaning and modulation for accessing the code or understanding the content. 
 
 ## Installation
 
