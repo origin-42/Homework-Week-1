@@ -30,7 +30,9 @@ Any text editor can be utilized to operate the webpage. Simply download the cont
 
 ## Credits
 [Horiseon Website](https://origin-42.github.io/Horiseon-Digital-Marketing/)
+
 [Origin 42](https://github.com/origin-42)
+
 Dave Plummer
 
 [30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) Underline effect. 
