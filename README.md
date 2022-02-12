@@ -36,7 +36,7 @@ Dave Plummer
 [30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) for assistance with underline after effect for list elements. 
 
 ## License
-[General purpose lisence](./LICENSE)
+[GNU General Public License v3.0](./LICENSE)
 
 ## Extras
 
