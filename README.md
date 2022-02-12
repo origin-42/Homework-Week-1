@@ -6,7 +6,7 @@ Includes online presence and benefits offered by using Horiseon digital services
 
 
 
-Updated for accessibility and readability as of 11/02/2022.
+Updated for accessibility and readability as of 12/02/2022.
 
 
 [Hero Section](./assets/images/Hero%20Screenshot.png) and
