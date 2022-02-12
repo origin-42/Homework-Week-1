@@ -39,13 +39,12 @@ Dave Plummer
 
 [FreeCodeCamp.com](https://www.freecodecamp.org/learn). Applied Visual Design & Accessibility.
 
-<<<<<<< HEAD
 ## licence
 [General purpose licence](./LICENSE)
-=======
+
 ## License
 [GNU General Public License v3.0](./LICENSE)
->>>>>>> 6019e8389b8c40c138b5cff7048ef085add6119b
+
 
 ## Extras
 
