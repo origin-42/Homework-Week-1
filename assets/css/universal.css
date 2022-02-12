@@ -4,6 +4,7 @@
     /* colors */
     --page-white: #ffffff;
     --white-tint: #d9dcd6;
+    /* background-colors */
     --page-blue: #0072bb;
     --page-lblue: #2589bd;
     --header-blue: #2a607c;
@@ -55,3 +56,15 @@ a {
 .lblue {
     background-color: var(--page-lblue);
 }
+
+/* Display Positioning */
+.inline-block {
+    display: inline-block;
+}
+.block {
+    display: block;
+}
+/* .inline {
+
+} */
+
