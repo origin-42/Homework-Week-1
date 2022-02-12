@@ -1,0 +1,57 @@
+/* Variables */
+
+:root {
+    /* colors */
+    --page-white: #ffffff;
+    --white-tint: #d9dcd6;
+    --page-blue: #0072bb;
+    --page-lblue: #2589bd;
+    --header-blue: #2a607c;
+}
+
+/* Universal Selectors */
+body {
+    background-color: var(--white-tint);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.alt-font {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a {
+    color: var(--page-white);
+}
+
+/* nav {
+    float: right;
+} */
+
+/* floats */
+
+.float-left {
+    float: left;
+}
+.float-right {
+    float: right;
+}
+.clear-floats {
+    clear: both;
+}
+
+/* Page colors */
+.page-white {
+    color: var(--page-white);
+}
+.tint {
+    color: var(--white-tint);
+}
+
+/* Page background-colors */
+.header-blue {
+    background-color: var(--header-blue);
+}
+.blue {
+    background-color: var(--page-blue);
+}
+.lblue {
+    background-color: var(--page-lblue);
+}
