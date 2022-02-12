@@ -5,7 +5,7 @@ The Horiseon website has not been adjusted for accessibility, responsiveness and
 Moving forward, an assisted setup for the website will providers specific users with the ability to navigate the website more easily with feedback to keystrokes and interaction.
 As it was, the website did not cater to these needs of certain users. 
 With the use of semantic HTML and accessibility syntax, the site will be much more navigateable, including being able to use a keyboard only and understanding the flow of the doucment without the use of sight.
-In addition to this. The CSS needed cleaning and modulation for accessing the code or understanding the content. 
+In addition to this, the CSS needed cleaning and modulation for accessing the code or understanding the content. 
 
 ## Installation
 
@@ -30,13 +30,22 @@ Any text editor can be utilized to operate the webpage. Simply download the cont
 
 ## Credits
 [Horiseon Website](https://origin-42.github.io/Horiseon-Digital-Marketing/)
+
 [Origin 42](https://github.com/origin-42)
+
 Dave Plummer
 
-[30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) for assistance with underline after effect for list elements. 
+[30secondsofcode.com](https://www.30secondsofcode.org/css/s/hover-underline-animation) Underline effect. 
 
+[FreeCodeCamp.com](https://www.freecodecamp.org/learn). Applied Visual Design & Accessibility.
+
+<<<<<<< HEAD
 ## licence
 [General purpose licence](./LICENSE)
+=======
+## License
+[GNU General Public License v3.0](./LICENSE)
+>>>>>>> 6019e8389b8c40c138b5cff7048ef085add6119b
 
 ## Extras
 
