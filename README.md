@@ -11,22 +11,36 @@ In addition to this, the CSS needed cleaning and modulation for accessing the co
 
 Any text editor can be utilized to operate the webpage. Simply download the contents and access the page via the HTML document.
 1. Create a directory on your computer.
-2. Navigate to the directory with your preferred shell. 
-3. create a github repo.
-4. Copy the https from the github repo by selecting 'Code' on the main page of the repo.
-5. Add the directory to the repo 'git remote add origin "your https from github"'
-6. create a main branch 'git branch -M main'
-7. Now add those contents of your directory to that repo.
-8. 'git push -u origin main'
-9. (if you have an ssh key, enter the password).
-10. If you created a readme, you'll have to download the contents to your local machine.
-11. git pull.
-
+2. Navigate to the directory. 
+3. Create a github repo.
+```
+git init
+```
+4. Copy the https from the github repo.
+5. Add the directory to the repo 
+``` 
+git remote add origin <url>
+```
+6. create a main branch 
+``` 
+git branch -M main
+```
+7. Now add the contents of your directory to that repo.
+```
+git push -u origin main
+```
+8. (if you have an ssh key, enter the password).
+9. If you created a readme, you'll have to download the contents to your local machine.
+```
+git pull .
+```
 10. To update your contents
-11. 'git add -A' to add the doucments to the staging area.
-12. 'git commit -m "commenting on what you're doing in current tense (eg. "initial commit")"'.
-13. This organises content to be committed into the github repo from your local computer.
-14. Now push them to the repo.
+```
+git add -A
+git commit -m "<comment>"
+```
+11. Now push them to the repo again.
+
 
 ## Credits
 [Horiseon Website](https://origin-42.github.io/Horiseon-Digital-Marketing/)
