@@ -3,13 +3,14 @@
     /* background-color: var(--header-blue); */
     /* color: var(--page-white); */
     padding: 20px;
-    position: fixed;
-    width: 100%;
+    /* fixed header option */
+    /* position: fixed;
+    width: 100%; */
 }
 
 /* targetting logo span */
 /* .seo {
-    color: var(--white-tint);
+    color: var(--white-tint); - 'universal.css'
 } */
 
 /* targeting navigation menu only */
@@ -43,7 +44,7 @@
 }
 
 /* Nav list underline hover animation */
-.header nav ul li:after {
+/* .header nav ul li:after {
     content: '';
     position: absolute;
     width: 100%;
@@ -59,7 +60,7 @@
 .header nav ul li:hover:after {
     transform: scaleX(1);
     transform-origin: bottom left;
-  }
+  } */
 
 /* #horiseon-logo {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -158,8 +159,3 @@
     font-size: 20px;
 }
 
-
-/* Media Queries */
-/* Page currently unresponsive to screen res and size */
-
-/* KEYFRAMES */

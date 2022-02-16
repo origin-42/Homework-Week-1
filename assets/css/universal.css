@@ -15,10 +15,10 @@ body {
     background-color: var(--white-tint);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-main {
-    /* adjust for fixed header */
+/* main {
+    adjust for fixed header
     padding-top: 96px;
-}
+} */
 a {
     color: var(--page-white);
 }
